@@ -1,4 +1,4 @@
-﻿#My TF2 scripts  
+﻿#TF2 scripts  
   
 ####Scripts  
 - Netgraph while looking at the scoreboard  
